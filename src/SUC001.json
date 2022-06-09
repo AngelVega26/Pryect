@@ -1,0 +1,132 @@
+{
+  "dictdist":{
+    "services":[
+      {
+        "Sucursal": "SUC001",
+        "NoCuenta": "XTA00001",
+        "CURP": "CURP010101",
+        "Nombres": "Ana",
+        "Apellidos": "H",
+        "Saldo": 100
+      },
+      {
+        "Sucursal": "SUC001",
+        "NoCuenta": "XTA00002",
+        "CURP": "CURP010102",
+        "Nombres": "Lizz",
+        "Apellidos": "H" , 
+        "Saldo": 101
+      },
+      {
+        "Sucursal": "SUC001",
+        "NoCuenta": "XTA00003",
+        "CURP": "CURP010103",
+        "Nombres": "Liz",
+        "Apellidos": "H",
+        "Saldo": 102
+      },
+      {
+        "Sucursal": "SUC001",
+        "NoCuenta": "XTA00004",
+        "CURP": "CURP010104",
+        "Nombres": "Nio",
+        "Apellidos": "H",
+        "Saldo": 103
+      },
+      {
+        "Sucursal": "SUC001",
+        "NoCuenta": "XTA00005",
+        "CURP": "CURP010105",
+        "Nombres": "Jose Luis",
+        "Apellidos": "H",
+        "Saldo": 104
+      },
+      {
+        "Sucursal": "SUC001",
+        "NoCuenta": "XTA00006",
+        "CURP": "CURP010106",
+        "Nombres": "Gerardo",
+        "Apellidos": "H",
+        "Saldo": 105
+      },
+      {
+        "Sucursal": "SUC001",
+        "NoCuenta": "XTA00007",
+        "CURP": "CURP010107",
+        "Nombres": "Alberto",
+        "Apellidos": "H",
+        "Saldo": 106
+      },
+      {
+        "Sucursal": "SUC001",
+        "NoCuenta": "XTA00008",
+        "CURP": "CURP010108",
+        "Nombres": "Ivette",
+        "Apellidos": "H",
+        "Saldo": 107
+      },
+      {
+        "Sucursal": "SUC001",
+        "NoCuenta": "XTA00009",
+        "CURP": "CURP010109",
+        "Nombres": "José",
+        "Apellidos": "H",
+        "Saldo": 108
+      },
+      {
+        "Sucursal": "SUC001",
+        "NoCuenta": "XTA00010",
+        "CURP": "CURP010110",
+        "Nombres": "Lidia",
+        "Apellidos": "H",
+        "Saldo": 109
+      },
+      {
+        "Sucursal": "SUC001",
+        "NoCuenta": "XTA00011",
+        "CURP": "CURP010111",
+        "Nombres": "Angel",
+        "Apellidos": "H",
+        "Saldo": 110
+      },
+      {
+        "Sucursal": "SUC001",
+        "NoCuenta": "XTA00012",
+        "CURP": "CURP010112",
+        "Nombres": "Manuel",
+        "Apellidos": "H",
+        "Saldo": 111
+      },
+      {
+        "Sucursal": "SUC001",
+        "NoCuenta": "XTA00013",
+        "CURP": "CURP010113",
+        "Nombres": "Silvia",
+        "Apellidos": "H",
+        "Saldo": 112
+      },
+      {
+        "Sucursal": "SUC001",
+        "NoCuenta": "XTA00014",
+        "CURP": "CURP010114",
+        "Nombres": "Ivette",
+        "Apellidos": "H",
+        "Saldo": 113
+      }
+    ],
+    "puertos": [
+      {
+        "Puerto": 13777,
+        "Sucursal": "SUC001"
+      },
+      {
+        "Puerto": 200,
+        "Sucursal": "SUC002"
+      },
+      {
+        "Puerto": 300,
+        "Sucursal": "SUC003"
+      }
+    ]
+  }
+}
